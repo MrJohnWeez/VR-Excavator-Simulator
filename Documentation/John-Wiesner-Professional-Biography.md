@@ -1,4 +1,6 @@
-# John Wiesner
+# Professional Biography
+
+## John Wiesner
 
 ## Contact
 
