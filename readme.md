@@ -11,3 +11,7 @@
 ## [Design Diagrams](Documentation/Desgin_Diagrams/Design-Diagrams-012.pdf)
 
 ## [Task List](Documentation/Tasks-List.md)
+
+## [Milestones](Documentation/Milestones.md)
+
+## [Timeline and Effort Matrix](Documentation/Timeline-And-Effort-Matrix.md)
