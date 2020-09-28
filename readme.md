@@ -1,17 +1,29 @@
 # Table Of Contents
 
-## [Professional Biography](Documentation/John-Wiesner-Professional-Biography.md)
+## Assignment 1
 
-## [Project Description](Documentation/Project-Description.md)
+* [Professional Biography](Documentation/John-Wiesner-Professional-Biography.md)
 
-## [Individual Capstone Assessment](Documentation/Individual-Capstone-Assessment.md)
+## Assignment 2
 
-## [User Stories](Documentation/User-Stories.md)
+* [Project Description](Documentation/Project-Description.md)
 
-## [Design Diagrams](Documentation/Desgin_Diagrams/Design-Diagrams-012.pdf)
+## Assignment 3
 
-## [Task List](Documentation/Tasks-List.md)
+* [Individual Capstone Assessment](Documentation/Individual-Capstone-Assessment.md)
 
-## [Milestones](Documentation/Milestones.md)
+## Assignment 4
 
-## [Timeline and Effort Matrix](Documentation/Timeline-And-Effort-Matrix.pdf)
+* [User Stories](Documentation/User-Stories.md)
+
+* [Design Diagrams](Documentation/Design_Diagrams/Design-Diagrams-012.pdf)
+
+## Assignment 5
+
+* [Task List](Documentation/Tasks-List.md)
+
+## Assignment 6
+
+* [Milestones](Documentation/Milestones.md)
+
+* [Timeline and Effort Matrix](Documentation/Timeline-And-Effort-Matrix.pdf)
