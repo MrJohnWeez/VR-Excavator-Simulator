@@ -56,4 +56,4 @@ See timeline below
 
     Release VR excavator simulator game on steam as a alpha/beta app. The app will most likely be free while in the beta stages.
 
-![Milestones_Timeline](Documentation/Milestones_Timeline.jpeg "Milestones Timeline")
+![Milestones Timeline](.Documentation/Milestones_Timeline.jpeg)
