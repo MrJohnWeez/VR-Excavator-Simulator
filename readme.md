@@ -27,3 +27,7 @@
 * [Milestones](Documentation/Milestones.md)
 
 * [Timeline and Effort Matrix](Documentation/Timeline-And-Effort-Matrix.pdf)
+
+## Assignment 7
+
+* [Task List](Documentation/Major-Constraints.md)
