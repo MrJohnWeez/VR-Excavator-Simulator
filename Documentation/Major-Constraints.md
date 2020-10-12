@@ -36,7 +36,7 @@ The price of the Steam app will be set for financial benefits from the developme
 
 ## Security
 
-No user identifiable data will be collected through Steam. The app is a locally ran game with no networking abilities other than though the Steam APIs. All data is stored locally where the game is saved to.
+No user identifiable data will be collected through Steam. The app is a locally ran game with no networking abilities other than though the Steam APIs. All data is stored locally where the game is saved to. There are no privacy or virus concerns with this application.
 
 ## Social
 
@@ -44,8 +44,10 @@ The public will be allowed to download the app once they pay the sale price on S
 
 ## Environmental
 
-The game will only be available on Steam for the scope of this project.
+The game will only be available on Steam for the scope of this project. This may be a downside to people who do not have access to Steam or the required hardware to run a VR program.
+
+This application will not negatively impact the environment directly but technically would be encouraging the use of hardware that uses energy for entertainment.
 
 ## Diversity and Cultural
 
-This simulator will give people the ability to see the culture of excavator operation and what it feels like to operate heavy machinery. This simulator does not replace the true culture and feel of operating a true heavy machine but will simulate those feelings.
+This simulator will give people the ability to see the culture of excavator operation and what it feels like to operate heavy machinery. This simulator does not replace the true culture and feel of operating a true heavy machine but will simulate those feelings. Diversity does not play a role in this application. The application will only be offered in the English language.
