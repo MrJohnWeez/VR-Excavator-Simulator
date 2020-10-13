@@ -30,4 +30,8 @@
 
 ## Assignment 7
 
-* [Task List](Documentation/Major-Constraints.md)
+* [Major Constraints](Documentation/Major-Constraints.md)
+
+## Assignment 8
+
+* [Slide Presentations](Documentation/Slide-Presentations.md)
