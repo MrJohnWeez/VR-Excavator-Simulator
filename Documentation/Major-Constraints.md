@@ -34,6 +34,8 @@ No user identifiable data will be collected through Steam.
 
 The price of the Steam app will be set for financial benefits from the development of the app. Money generated through steam over the development cost of the app will go directly back into the app until the app is fully functional.
 
+The VR simulator does not substitute for professional licensed training but instead is only to be used as an emulation of what it is like to operate such machinery. The developer is not responsible for any real world accidents, issues, safety practices, and cannot be held responsible for any non-video game actions of users.
+
 ## Security
 
 No user identifiable data will be collected through Steam. The app is a locally ran game with no networking abilities other than though the Steam APIs. All data is stored locally where the game is saved to. There are no privacy or virus concerns with this application.
