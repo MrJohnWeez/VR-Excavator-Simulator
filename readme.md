@@ -1,6 +1,6 @@
 # VR Excavator Simulator
 
-Table of Contents for Fall Design Report. View Direct [Assignments (1-8)](AssignmentView.md) instead
+Table of Contents for Fall Design Report. View Direct [Assignments (1-8)](Assignments1-8.md) instead
 
 - [Project Abstract](#project-abstract)
 - [Project Description](#project-description)
@@ -316,4 +316,4 @@ Be the first to [Donate](https://www.paypal.com/paypalme/mrjohnweez)
   - 20 hours - Identify Scope and preform research
   - 20 hours - Determine what assets will be used
   - 30 hours - Create Prototypes and research best ways to implement possible features
-  - 20 hours - Project [Assignments (1-8)](AssignmentView.md)
+  - 20 hours - Project [Assignments (1-8)](Assignments1-8.md)
