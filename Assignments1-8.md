@@ -34,5 +34,4 @@
 
 ## Assignment 8
 
-* [Slide Presentations](Documentation/Slide-Presentations.md)
-* [Presentation Video](https://youtu.be/ZOa90eH4KTM)
+* [Slide Presentation Materials](Documentation/Slide-Presentations.md)
