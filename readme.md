@@ -33,7 +33,7 @@ Team Members
 - **Team member**: John Wiesner (CS) - wiesnejt@mail.uc.edu
 - **Advisor**: Kyle Hartshorn (Group Manager at Kinetic Vision) - khartshorn@kinetic-vision.com
 
-The Virtual reality excavator simulator application will allow users to learn the fundamentals of excavation-machine operation and control patterns. User will be taught these topics through missions such as land clearing, pond excavation, and covert installation. It will be designed for the game library Steam, targeted at windows 10 computers that support VR devices; specifically the Oculus Rift.
+The Virtual reality excavator simulator application will allow users to learn the fundamentals of excavation-machine operation and control patterns. Users will be taught these topics through missions such as land clearing, pond excavation, and covert installation. It will be designed for the game library Steam, targeted at Windows 10 computers that support VR devices; specifically the Oculus Rift.
 
 # Project Description
 
@@ -59,7 +59,7 @@ The Virtual reality excavator simulator application will allow users to learn th
 
 2. As an excavation expert, I want to be able to switch control configurations (ISO and SAE), so that I can learn how to operate different machine models.
 
-3. As a person who has played simulator games before, I want to be able to move around a open world map with optional tutorials/levels, so that I have the choice on how I play in the order I choose.
+3. As a person who has played simulator games before, I want to be able to move around an open world map with optional tutorials/levels, so that I have the choice on how I play in the order I choose.
 
 4. As a person who is new to VR and knows nothing about excavators, I want to follow a short tutorial on the controls and operations, so that I am not confused and just get frustrated.
 
@@ -77,10 +77,10 @@ The Virtual reality excavator simulator application will allow users to learn th
 
 ### D1
 
-1. Person with an Oculus rift uses buttons that trigger events. These events control menus and excavation functions. Once a menu displays a user points the controller at where they want to navigate and then pull the front trigger.
+1. Person with an Oculus Rift uses buttons that trigger events. These events control menus and excavation functions. Once a menu displays a user points the controller at where they want to navigate and then pull the front trigger.
 2. If user holds clutch button and rotates controllers, excavator function will move dependent on user settings
 3. If a user moves the right or left joystick (forwards or backwards) the excavator tracks move with a certain force proportional to the input magnitude.
-4. An Oculus controller passes input events to Steam-VR that then get passed to the Unity Engine. They are then handled as events within the game engine to preform certain event driven tasks.
+4. An Oculus controller passes input events to Steam-VR that then get passed to the Unity Engine. They are then handled as events within the game engine to perform certain event driven tasks.
 
 ### D2
 
@@ -90,7 +90,7 @@ The Virtual reality excavator simulator application will allow users to learn th
 4. User points at play, the menu prompts user to select a save slot, save data is generated, free roam is entered
 5. User selects load save #, Save data is validated and loaded if valid else it generates new data.
 6. Menu button is pressed.
-7. User presses Quit and progress is saved and user it taken to main menu.
+7. User presses Quit, progress is saved, and then user is taken to the main menu.
 8. User clicks on settings, settings menu opens and can be configured
 9. User clicks resume, game menu closes and game resumes.
 10. User clicks missions.
@@ -118,16 +118,16 @@ Since this is a **solo team, John Wiesner** will be working on all of the tasks.
 12. (John) [ ] Program grabbing objects with excavator thumb.
 13. (John) [ ] Program the falling of trees.
 14. (John) [ ] Implement world-space user interface menus (Main menu, Settings, Missions).
-15. (John) [ ] Set up basic testing area and get at least one person to test simulator and to document their feedback (ideally on different hardware too).
+15. (John) [ ] Set up a basic testing area and get at least one person to test the simulator and to document their feedback (ideally on different hardware too).
 16. (John) [ ] Tweak current systems to accommodate tester’s feedback.
 17. (John) [ ] Swap out free assets for paid assets (only if necessary).
 18. (John) [ ] Create tutorial mission stages (Basic controls, Excavating tutorial, pick/place objects tutorial).
 19. (John) [ ] Create pond mission stages (Remove trees, remove large boulders, dig pond, dig covert pipe, cover pipe with dirt, place in riprap).
 20. (John) [ ] Implement save/load of data (Settings, Missions completed,Mission progress, dirt moved, objects moved).
-21. (John) [ ] Add three save slots on main menu.
-22. (John) [ ] Test simulator and fix bugs that appear.
-23. (John) [ ] Have one newer person test simulator and one or more other people test the simulator (Possibly on different hardware).
-24. (John) [ ] Preform final tweaks, bug fixes, changes and then test 2 more times.
+21. (John) [ ] Add three save slots on the main menu.
+22. (John) [ ] Test the simulator and fix bugs that appear.
+23. (John) [ ] Have one newer person test the simulator and one or more other people test the simulator (Possibly on different hardware).
+24. (John) [ ] Perform final tweaks, bug fixes, changes and then test 2 more times.
 25. (John) [ ] Publicly release app on steam.
 
 ## Timeline
@@ -175,18 +175,18 @@ See timeline below
 
 5. **Clean up and organize project**
 
-    Take the findings in the prototype stage and implement them in organized and clean way. The code and project should be maintainable and organized.
+    Take the findings in the prototype stage and implement them in an organized and clean way. The code and project should be maintainable and organized.
 
 6. **Implement Missions and Freeroam**
 
     - Set up a missions and stages framework for project
     - Implement the tutorial mission and its stages
     - Implement the pond mission and its stages
-    - Add a few objects to freeroam mode (cars, tires, bricks, etc) that player can grab and move
+    - Add a few objects to free roam mode (cars, tires, bricks, etc) that player can grab and move
 
 7. **Add saving/loading of game data**
 
-    This allows a user to save the progress of a mission or stage so they can continue at a later date. Terrain and objects should be saved within missions but the freeroam mode will not have and saving states.
+    This allows a user to save the progress of a mission or stage so they can continue at a later date. Terrain and objects should be saved within missions but the free roam mode will not have saving states.
 
 8. **Test final version and make fixes**
 
@@ -194,7 +194,7 @@ See timeline below
 
 9. **Deploy app to Steam**
 
-    Release VR excavator simulator game on steam as a alpha/beta app. The app will most likely be free while in the beta stages.
+    Release VR excavator simulator game on steam as an alpha/beta app. The app will most likely be free while in the beta stages.
 
 ![Milestones Timeline](Milestones_Timeline.jpeg)
 
@@ -211,7 +211,7 @@ When deciding on a topic for my senior-design project I wanted to choose somethi
 
 ## College Curriculum
 
-The college curriculum will help guide my development process by giving me the steps needed to plan out a successful and completable project. After taking generic programming classes like **CS4003** Programming Languages, I know I prefer programming in C++ or C#. This allows me to use the game engine Unity3D since all the coding is done in the language C#. I then will use the strategies and architecture I learned in the classes **EECE3093C** Software Engineering and **CS5127** Requirements Engineering to scope out the project. It is important to get requirements of what the software/program will do before programming even starts. The **CS5167** User Interface class I took will allow me to create a simple but effective user interface and (in game) heads up display. I will also use knowledge from the class **CS2028C** Data Structures when storing level information, user statistics, and save data. Another smaller point I want to bring up is that depending on the required math for equipment controls I may end up using math learned in the class **Math2076** Linear Algebra. The final two classes, **ENGL4092** Technical and Scientific Writing and **Comm1071** Intro to Effective Speaking, will help my final presentation and documentation of this project.
+The college curriculum will help guide my development process by giving me the steps needed to plan out a successful and completable project. After taking generic programming classes like **CS4003** Programming Languages, I know I prefer programming in C++ or C#. This allows me to use the game engine Unity3D since all the coding is done in the language C#. I then will use the strategies and architecture I learned in the classes **EECE3093C** Software Engineering and **CS5127** Requirements Engineering to scope out the project. It is important to get requirements of what the software/program will do before programming even starts. The **CS5167** The User Interface class I took will allow me to create a simple but effective user interface and (in game) heads up display. I will also use knowledge from the class **CS2028C** Data Structures when storing level information, user statistics, and save data. Another smaller point I want to bring up is that depending on the required math for equipment controls I may end up using math learned in the class **Math2076** Linear Algebra. The final two classes, **ENGL4092** Technical and Scientific Writing and **Comm1071** Intro to Effective Speaking, will help my final presentation and documentation of this project.
 
 ## Co-op Experiences
 
@@ -223,7 +223,7 @@ My motivation for creating a VR excavator simulator is due to me being **fascina
 
 ## Preliminary Project Approach
 
-The first steps I plan on taking for this project is to **find** as many **other examples** of excavation mechanics. These mechanics could include digging, moving, particle simulation, rig attachments, optimizations, and procedures. One example I was able to find is a [short video](https://www.youtube.com/watch?v=TkiekFf5970&feature=youtu.be&t=83) by CM Labs. Once I find what the best implementation and limitations will be, I can then **scope out a high-level application design document** that describes what the deliverables will be. Completing these predetermined deliverables is what determines the application progress. In general, these deliverables will be a fully working Steam application that allows a user to use an excavator in VR. Some examples of these deliverables: the user can dig/fill holes, dispose of dirt into trucks, complete four or five pre-determined tutorial levels (learning controls, clear land of trees and boulders, dig a pond, install a covert pipe), switch control modes ([ISO and SAE](https://en.wikipedia.org/wiki/Excavator_controls#:~:text=The%20most%20commonly%20used%20control,motions%20(close%20%26%20dump))), and possibly switch buckets (2 variants). **To determine if I did a “good job” I would analyze what I learned, what mistakes did I do, what did I do great, and is the project stable/useable by the public.**
+The first steps I plan on taking for this project is to **find** as many **other examples** of excavation mechanics. These mechanics could include digging, moving, particle simulation, rig attachments, optimizations, and procedures. One example I was able to find is a [short video](https://www.youtube.com/watch?v=TkiekFf5970&feature=youtu.be&t=83) by CM Labs. Once I find what the best implementation and limitations will be, I can then **scope out a high-level application design document** that describes what the deliverables will be. Completing these predetermined deliverables is what determines the application progress. In general, these deliverables will be a fully working Steam application that allows a user to use an excavator in VR. Some examples of these deliverables: the user can dig/fill holes, dispose of dirt into trucks, complete four or five pre-determined tutorial levels (learning controls, clear land of trees and boulders, dig a pond, install a culvert pipe), switch control modes ([ISO and SAE](https://en.wikipedia.org/wiki/Excavator_controls#:~:text=The%20most%20commonly%20used%20control,motions%20(close%20%26%20dump))), and possibly switch buckets (2 variants). **To determine if I did a “good job” I would analyze what I learned, what mistakes I do, what did I do great, and is the project stable/usable by the public.**
 
 # Professional Biography
 
@@ -268,7 +268,7 @@ The first steps I plan on taking for this project is to **find** as many **other
 
 ## Project Sought
 
-- A windows application within Unity that is a VR simulation game or a teaching game
+- A Windows application within Unity that is a VR simulation game or a teaching game
 - Physics or kinematics-based movement
 - Publish a free product on steam
 
@@ -313,7 +313,7 @@ Be the first to [Donate](https://www.paypal.com/paypalme/mrjohnweez)
 
 - [View Commits](https://github.com/MrJohnWeez/VR-Excavator-Simulator/commits/master)
 - Time spent
-  - 20 hours - Identify Scope and preform research
+  - 20 hours - Identify Scope and perform  research
   - 20 hours - Determine what assets will be used
   - 30 hours - Create Prototypes and research best ways to implement possible features
   - 20 hours - Project [Assignments (1-8)](Assignments1-8.md)
