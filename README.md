@@ -7,5 +7,5 @@ Table of Contents for Spring Design Report.
 
 ## Assignments
 
-- [Assignment 1 Test Plan](Spring/Assignment_1_Test_Plan.pdf) 
-- [Assignment 2 User Documentation & Manual](Spring/Assignment_2_Documentation.md) 
+- [Assignment 1 Test Plan](Spring/Assignment_1_Test_Plan.pdf)
+- [Assignment 2 User Documentation & Manual](Spring/Assignment_2_User_Docs.md) 
