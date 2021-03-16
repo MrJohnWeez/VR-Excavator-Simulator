@@ -3,6 +3,7 @@
 Welcome to the user documentation for the app: Excavator Simulator VR. There is not a whole lot of documentation yet due to the app being actively developed. The guides below may be out of date and if so please submit a issue ticket.
 
 - [Assignment 2 User documentation and Manual](#assignment-2-user-documentation-and-manual)
+  - [Game Trailer](#game-trailer)
   - [Getting started](#getting-started)
     - [Hardware requirements](#hardware-requirements)
     - [Installation](#installation)
@@ -12,8 +13,11 @@ Welcome to the user documentation for the app: Excavator Simulator VR. There is 
     - [Game Controls](#game-controls)
       - [Seat Controls](#seat-controls)
       - [Excavator Controls](#excavator-controls)
-    - [Level Walk-throughs](#level-walk-throughs)
   - [FAQ](#faq)
+
+## Game Trailer
+
+[View Trailer](https://youtu.be/ad5y99QEyfQ)
 
 ## Getting started
 
@@ -54,8 +58,6 @@ Welcome to the user documentation for the app: Excavator Simulator VR. There is 
 
 ### Navigating menus
 
-*  *Gifs coming soon when menu is finished*
-
 1. Press the in game menu button on your controller.
 2. A menu will be displayed on the excavator windshield.
 3. Point your controller at the menu and a pointer will appear coming out of your hand.
@@ -65,7 +67,7 @@ Welcome to the user documentation for the app: Excavator Simulator VR. There is 
 ### Game Controls
 
 #### Seat Controls
-* *Coming soon...*
+![Seat Controls Example](Gifs/Seat_Adjust.gif)
 
 #### Excavator Controls
 
@@ -77,31 +79,12 @@ When the grab button is held in your hands snap to the red highlighted object an
 
 ![Move Controls](Gifs/Move_Controls.gif)
 
-*Diagrams coming soon once controls are finalized...*
-
-* Levers
+* Lever controls are introduced as the first tutorial level
   * Left lever = left track
   * Right lever = right track
-* Joysticks and corresponding control pattern (Toggleable in settings menu)
-  * ISO and SAE control patterns
-    * Left hand left = Swing left
-    * Left hand right = Swing right
-    * Right hand left = Bucket curl in (closed)
-    * Right hand right = Bucket curl out (dump)
-  * Just ISO
-    * Left hand forward = Stick Boom (Dipper) away
-    * Left hand back = Stick Boom (Dipper) close
-    * Right hand forward = Main Boom down
-    * Right hand back = Main Boom up.
-  * Just SAE
-    * Left hand forward = Main Boom down
-    * Left hand back = Main Boom up
-    * Right hand forward = Stick Boom (Dipper) away
-    * Right hand back = Stick Boom (Dipper) close
+* Joysticks and corresponding control pattern (ISO) are shown to the user as a hud while completing the joystick tutorial level.
 
-### Level Walk-throughs
-
-* *coming soon...*
+    ![ISO Control Pattern Tutorial](Images/Cab_View_Joystick_Tutorial.jpg)
 
 ## FAQ
 Steam VR did not start up when Excavator Simulator VR app was started
@@ -111,9 +94,10 @@ Steam VR did not start up when Excavator Simulator VR app was started
 
 I bought the game but it is laggy or unplayable
 
-* Please create a community post or bug report with what hardware you are running
+* Make **sure you meet the minimum hardware requirements** listed above or on the Steam store page.
+* Please create a community post or **bug report** with what hardware you are running
 
-* If you do not want to wait for it to get fixed return the game to steam
+* If you do not want to wait for a patch you can return the game to steam
 
 I found a bug
 
