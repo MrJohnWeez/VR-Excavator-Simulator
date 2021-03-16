@@ -4,7 +4,7 @@ Welcome to the user documentation for the app: Excavator Simulator VR. There is 
 
 - [Assignment 2 User documentation and Manual](#assignment-2-user-documentation-and-manual)
   - [Getting started](#getting-started)
-    - [Minimum Hardware requirements](#minimum-hardware-requirements)
+    - [Hardware requirements](#hardware-requirements)
     - [Installation](#installation)
     - [Run Simulator App](#run-simulator-app)
   - [How to play Excavator Simulator VR](#how-to-play-excavator-simulator-vr)
@@ -17,26 +17,30 @@ Welcome to the user documentation for the app: Excavator Simulator VR. There is 
 
 ## Getting started
 
-### Minimum Hardware requirements
-* PC
-  * Windows 10
-  * Nvidia 2060 or AMD equivalent
-  * 16 GB Ram
+### Hardware requirements
+* SYSTEM REQUIREMENTS
+  * MINIMUM:
+    * OS: Windows 10
+    * Processor: Intel i5-4590 | AMD Ryzen 5 1400
+    * Memory: 8 GB RAM
+    * Graphics: NVIDIA GTX 1060 | AMD Radeon RX 480
+    * DirectX: Version 11
+    * Storage: 1 GB available space
+* RECOMMENDED:
+    * OS: Windows 10
+    * Processor: Intel Core i7-10750 | Ryzen 7 4800H
+    * Memory: 16 GB RAM
+    * Graphics: NVIDIA RTX 2060 | AMD Radeon Vega 56
+    * DirectX: Version 11
+    * Storage: 1 GB available space
 * A VR device (Any device that works with Steam VR)
-  * Oculus Rift/Rift S/Quest 2 with Oculus Link
-  * HTC Vive
-  * Valve Index
 
 ### Installation
-*App is not currently on the steam store but will be soon*
-
-The below process will be the exact same but place holder images are used.
-
 1. Create a Steam account [Go to site](https://store.steampowered.com/login/?redir=&redir_ssl=1&snr=1_4_4__global-header)
 2. Download and sign into Steam on a Windows 10 PC/Laptop [Download](https://store.steampowered.com/about/)
-3. In the search bar type "Excavator Simulator VR" or [Download Excavator Sim VR (comming soon)]()
+3. In the search bar type "Excavator Simulator VR" or view Steam page [Excavator Simulator VR](https://store.steampowered.com/app/1526380/Excavator_Simulator_VR/)
    ![search bar](Images/Seach_box.png)
-4. Below Early Access Game title hit add to cart and purchase
+4. Hit add to cart and purchase (or add to wishlist if not available for purchase)
 5. Download and install Steam VR [Download Steam VR](https://store.steampowered.com/app/250820/SteamVR/)
 6. Download and install Excavator Simulator VR and press play
    ![Install Button](Images/Install_VR_Excavator_Simulator.png)
@@ -107,10 +111,9 @@ Steam VR did not start up when Excavator Simulator VR app was started
 
 I bought the game but it is laggy or unplayable
 
-* Please create a discussion board (Coming soon) post or bug report with what hardware you are running
-  ![Discussion Board](Images/Discussions_Tab.png)
+* Please create a community post or bug report with what hardware you are running
 
-* If you do not want to wait for it to get fixed feel free to return the game to steam [Steam Refunds](https://store.steampowered.com/steam_refunds/)
+* If you do not want to wait for it to get fixed return the game to steam
 
 I found a bug
 
