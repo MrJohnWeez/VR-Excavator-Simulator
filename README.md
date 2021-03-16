@@ -1,5 +1,9 @@
 # VR Excavator Simulator
 
+[PLAY ON STEAM TODAY!](https://store.steampowered.com/app/1526380/Excavator_Simulator_VR/)
+
+---
+
 Table of Contents for Spring Design Report.
 
 - [VR Excavator Simulator](#vr-excavator-simulator)
