@@ -16,5 +16,6 @@ Table of Contents for Spring Design Report.
 - [Assignment 2 User Documentation & Manual](Spring/Assignment_2_User_Docs.md) 
 - [Assignment 3 Slide Deck](Spring/Assignment_3_Slide_Deck.pdf)
 - [Assignment 4 Poster](Spring/Images/Poster.pdf)
-    ![Poster](Spring/Images/Poster.png)
+- [Assignment 5 Presentation Video](https://www.mrjohnweez.com/excavator_sim_vr.html)
+- [Assignment 6 Self Assessment](Spring/Assignment_6_Self_Assessment.md)
 
