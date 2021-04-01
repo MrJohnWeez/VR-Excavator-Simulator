@@ -43,8 +43,10 @@
   - [What Was Accomplished?](#what-was-accomplished)
   - [Effort Put In?](#effort-put-in)
 - [Summary of Hours and Justification](#summary-of-hours-and-justification)
+  - [Fall](#fall)
+  - [Spring](#spring)
 - [Summary of Expenses](#summary-of-expenses)
-  - [Assignments](#assignments)
+- [Assignments View](#assignments-view)
 
 
 # Project Description
@@ -183,6 +185,10 @@ I bought the game but it is laggy or unplayable
 
 * If you do not want to wait for a patch you can return the game to steam
 
+I have played SteamVR game in the past but my controllers are not working
+
+* Sometimes antivirus interferes with new Steam games. [See post](https://support.steampowered.com/kb_article.php?ref=4361-MVDP-3638)
+
 I found a bug
 
 * Please submit a bug report in the discussions tab
@@ -271,21 +277,40 @@ The final product that was developed and produced was a publicly accessible and 
 
 ## Effort Put In?
 
-As a solo developer on this project, I had to put in many more hours than I would assume most individuals would put forth for a school project. Using a time management tracking software called ManicTime and adjusting the tracked time for other planning time not recorded by the software; it is estimated that **I spent about 250 hours on the project** during the spring 2021 semester. This accounts for tasks such as 3d modeling, project planning, level design, programming, Steam publishing, and promotion material designing.
+As a solo developer on this project, **I had to put in many more hours than I would assume** most individuals would put forth for a school project. Using a time management tracking software called ManicTime and adjusting the tracked time for other planning time not recorded by the software; it is estimated that **I spent about 250 hours on the project** during the spring 2021 semester. This accounts for tasks such as 3d modeling, project planning, level design, programming, Steam publishing, and promotion material designing.
 
 # Summary of Hours and Justification
 
+## Fall
+
+- [View Commits](https://github.com/MrJohnWeez/VR-Excavator-Simulator/commits/master)
+- Time spent
+  - 20 hours - Identify Scope and perform  research
+  - 20 hours - Determine what assets will be used
+  - 30 hours - Create Prototypes and research best ways to implement possible features
+  - 20 hours - Project [Assignments (1-8)](Fall/Assignments1-8.md)
+
+## Spring
+
+**Although the code is not public I did take screenshots of certain aspects of my GitHub to prove my work:**
+* Code check-ins
+* Issues Created
+* Milestones Created
+
+[Github_Work](Spring/Images/Github_Work/Github_Work.md)
+
 Below I have created a chart using data collected from a time management software I use called ManicTime. It tracked how many hours I worked on the senior design project starting in December 2020 (when classes ended) to March 31st 2021 (released game). Note that ~40 hours are not on graph due to time spent planning and other tasks not recorded directly on a computer.
 
-Hours Spent working on Excavator Simulator VR **VS** Days
+Time Spent working on Excavator Simulator: **Hours VS Days**
 
 ![Hour Effort Graph](Spring/Images/Hour_Effort.png)
 
 I thought it was interesting that I put in a few hours each day right before the holidays. I then worked many hours a day before school work started picking up and then stopped for a few days. That cycle seemed to appear over and over throughout the semester. There was also a large number of hours put in towards the end to try and get the app released. The tail end of the graph also shows that I went dock and did some bug fixing and tweaking before releasing the game to Steam.
 
-Although the code is not public I did take screenshots of all the code check-ins listed below
+See [Github_Work](Spring/Images/Github_Work/Github_Work.md) for repository proof
 
-[Commit logs](Spring/Images/Code_Commits)
+See also [Semester Assignments](Spring/Assignments1-7.md) of progress
+
 
 # Summary of Expenses
 
@@ -293,17 +318,8 @@ I set a budget of about $200 of my own personal money. I did go over budget by a
 
 ![Cost Chart](Spring/Images/Cost_Chart.png)
 
-I hope to make some of this investment back though selling copies of my game on Steam.
+**I hope *(would be nice at least)* to make some of this investment back though selling copies of my game on Steam.** [PLAY ON STEAM TODAY!](https://store.steampowered.com/app/1526380/Excavator_Simulator_VR/)
 
+# Assignments View
 
-
-## Assignments
-
-- [Assignment 1 Test Plan](Spring/Assignment_1_Test_Plan.pdf)
-  - [Actual Tests Used](Spring/Files/Actual_Used_Test_Cases.pdf)
-- [Assignment 2 User Documentation & Manual](Spring/Assignment_2_User_Docs.md) 
-- [Assignment 3 Slide Deck](Spring/Assignment_3_Slide_Deck.pdf)
-- [Assignment 4 Poster](Spring/Images/Poster.pdf)
-- [Assignment 5 Presentation Video](https://www.mrjohnweez.com/excavator_sim_vr.html)
-- [Assignment 6 Self Assessment](Spring/Assignment_6_Self_Assessment.md)
-
+[Semester Assignments 1-7](Spring/Assignments1-7.md)
