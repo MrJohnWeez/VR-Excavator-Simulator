@@ -284,7 +284,7 @@ As a solo developer on this project, **I had to put in many more hours than I wo
 ## Fall
 
 - [View Commits](https://github.com/MrJohnWeez/VR-Excavator-Simulator/commits/master)
-- Time spent
+- Time spent **(total: 90 hours)**
   - 20 hours - Identify Scope and perform  research
   - 20 hours - Determine what assets will be used
   - 30 hours - Create Prototypes and research best ways to implement possible features
@@ -296,6 +296,11 @@ As a solo developer on this project, **I had to put in many more hours than I wo
 * Code check-ins
 * Issues Created
 * Milestones Created
+* Time spent **(total: 290 hours)**
+  * 40 hours - Planning and design
+  * 180 hours - Development time
+  * 30 hours - Marketing and Steam processes
+  * 40 hours - School assignments and presentations
 
 [Github_Work](Spring/Images/Github_Work/Github_Work.md)
 
@@ -319,6 +324,12 @@ I set a budget of about $200 of my own personal money. I did go over budget by a
 ![Cost Chart](Spring/Images/Cost_Chart.png)
 
 **I hope *(would be nice at least)* to make some of this investment back though selling copies of my game on Steam.** [PLAY ON STEAM TODAY!](https://store.steampowered.com/app/1526380/Excavator_Simulator_VR/)
+
+---
+
+Update: Within the first week I sold ~350 copies!!!!
+
+---
 
 # Assignments View
 
